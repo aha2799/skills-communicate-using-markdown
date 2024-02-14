@@ -6,5 +6,8 @@
 print("hello world!")
 ```
 
+- [x] first module has been completed.
+- [x] second module has been edited by john.
+- [ ] third module to be completed by june,2024.
 I added a header in this file.
 I added an image of a mandelbrot set.
